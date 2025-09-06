@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://share.google/images/R1jwMqv00dqJ8ulVO"  />
+<img align="right" height="150" src="https://substackcdn.com/image/fetch/$s_!gNd9!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7151feb-517b-4ba0-8303-b913b1060f21_1280x720.png"  />
 
 ###
 
@@ -106,6 +106,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/anilkumarraut/anilkumarraut/output/snake.svg" alt="Snake animation" />
 
